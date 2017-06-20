@@ -1,0 +1,47 @@
+{
+  "name": "Farming basics",
+  "quests": [
+    {
+      "uuid": "c4e8e0c1-11fc-40ae-95d3-abcf21fc7e22",
+      "name": "Wheat Farms",
+      "description": "In All the mods eating different foods is a must so its always a good idea to start farming before you go in seach of diamonds.",
+      "x": 21,
+      "y": 22,
+      "icon": {
+        "id": "minecraft:wheat_seeds"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "fluidStack": {
+                "id": "minecraft:wheat_seeds"
+              },
+              "required": 16
+            },
+            {
+              "fluidStack": {
+                "id": "minecraft:reeds"
+              },
+              "required": 16
+            },
+            {
+              "fluidStack": {
+                "id": "actuallyadditions:item_rice_seed"
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "reward": [
+        {
+          "id": "spiceoflife:lunchbox"
+        }
+      ],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

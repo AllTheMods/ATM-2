@@ -1,0 +1,118 @@
+[
+  {
+    "uuid": "0bdc6928-d757-4ad3-a6c6-44fbfd322154",
+    "name": "whatthedrunk",
+    "lives": 3,
+    "team": {
+      "id": -1,
+      "lifeSetting": "SHARE",
+      "rewardSetting": "ALL",
+      "players": [
+        {
+          "uuid": "0bdc6928-d757-4ad3-a6c6-44fbfd322154",
+          "owner": true,
+          "bookOpen": false,
+          "inTeam": true
+        }
+      ],
+      "reputations": [],
+      "questDataList": [
+        {
+          "questId": "67b58ad2-7c93-4d10-98a4-6465bcffc009",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 0,
+            "tasks": []
+          }
+        },
+        {
+          "questId": "e413f609-bc2d-4cc0-88e5-bc27be8d9fcc",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 0,
+            "tasks": []
+          }
+        },
+        {
+          "questId": "ee055875-9a2b-41d1-8c00-694f0cdf3e01",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 0,
+            "tasks": []
+          }
+        },
+        {
+          "questId": "c4e8e0c1-11fc-40ae-95d3-abcf21fc7e22",
+          "questData": {
+            "players": 1,
+            "rewards": [
+              false
+            ],
+            "completed": false,
+            "claimed": false,
+            "available": true,
+            "time": 0,
+            "tasksSize": 1,
+            "tasks": [
+              {
+                "type": "ITEMS",
+                "completed": false,
+                "count": 3,
+                "progress": [
+                  0,
+                  0,
+                  0
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "invites": []
+    },
+    "selectedQuest": "c4e8e0c1-11fc-40ae-95d3-abcf21fc7e22",
+    "playedLore": false,
+    "receivedBook": true,
+    "groupData": {},
+    "deaths": {
+      "0bdc6928-d757-4ad3-a6c6-44fbfd322154": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
